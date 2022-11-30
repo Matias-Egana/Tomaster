@@ -1,0 +1,15 @@
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\bin\Debug\net6.0\Tomaster v0.0.exe
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\bin\Debug\net6.0\Tomaster v0.0.deps.json
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\bin\Debug\net6.0\Tomaster v0.0.runtimeconfig.json
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\bin\Debug\net6.0\Tomaster v0.0.dll
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\bin\Debug\net6.0\Tomaster v0.0.pdb
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\obj\Debug\net6.0\Tomaster v0.0.csproj.AssemblyReference.cache
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\obj\Debug\net6.0\Tomaster v0.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\obj\Debug\net6.0\Tomaster v0.0.AssemblyInfoInputs.cache
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\obj\Debug\net6.0\Tomaster v0.0.AssemblyInfo.cs
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\obj\Debug\net6.0\Tomaster v0.0.csproj.CoreCompileInputs.cache
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\obj\Debug\net6.0\Tomaster v0.0.dll
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\obj\Debug\net6.0\refint\Tomaster v0.0.dll
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\obj\Debug\net6.0\Tomaster v0.0.pdb
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\obj\Debug\net6.0\Tomaster v0.0.genruntimeconfig.cache
+C:\Users\mati_\Desktop\Proyecto 2022\c#\Tomaster v0.0\Tomaster v0.0\obj\Debug\net6.0\ref\Tomaster v0.0.dll
