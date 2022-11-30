@@ -41,15 +41,17 @@ public class BasedeHechos
 
     public bool? RecuperarValor(string nombre)
     {
+        int n = 0;
         foreach (HechoBool hecho in hechos)
         {
             if (hecho.Nombre().Equals(nombre))
             {
-                Console.WriteLine(""+hecho.Nombre()+"("+hecho.valorBool()+")");
+                Console.WriteLine("" + hecho.Nombre() + "(" + hecho.valorBool() + ")");
+                n=n+1;
                 return hecho.valorBool();
             }
         }
-        //Console.WriteLine("no encontrado");
+        if (n==0) { Console.WriteLine("hecho "+ nombre+", no encontrado"); }
         return null;
     }
 

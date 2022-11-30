@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mati_\\Desktop\\Proyecto 2022\\c#\\Tomaster v0.0\\Tomaster v0.0\\Tomaster v0.0.csproj": {}
+    "C:\\Users\\adaro\\Source\\Repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mati_\\Desktop\\Proyecto 2022\\c#\\Tomaster v0.0\\Tomaster v0.0\\Tomaster v0.0.csproj": {
+    "C:\\Users\\adaro\\Source\\Repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mati_\\Desktop\\Proyecto 2022\\c#\\Tomaster v0.0\\Tomaster v0.0\\Tomaster v0.0.csproj",
+        "projectUniqueName": "C:\\Users\\adaro\\Source\\Repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj",
         "projectName": "Tomaster v0.0",
-        "projectPath": "C:\\Users\\mati_\\Desktop\\Proyecto 2022\\c#\\Tomaster v0.0\\Tomaster v0.0\\Tomaster v0.0.csproj",
-        "packagesPath": "C:\\Users\\mati_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mati_\\Desktop\\Proyecto 2022\\c#\\Tomaster v0.0\\Tomaster v0.0\\obj\\",
+        "projectPath": "C:\\Users\\adaro\\Source\\Repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj",
+        "packagesPath": "C:\\Users\\adaro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\adaro\\Source\\Repos\\Tomaster\\Tomaster v0.0\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mati_\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\adaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

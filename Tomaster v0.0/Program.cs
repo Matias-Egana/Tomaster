@@ -13,4 +13,7 @@ Console.WriteLine("Hello, World!");
    // bh.vaciarHechos();
     bh.buscarHechos("marco");
     bh.RecuperarValor("till");
-   // bh.MostrarHechos();
+    bh.RecuperarValor("tillaaa");
+    
+Console.ReadKey();
+// bh.MostrarHechos();
