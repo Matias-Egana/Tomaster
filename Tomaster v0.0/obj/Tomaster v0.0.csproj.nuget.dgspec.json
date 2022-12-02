@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adaro\\Source\\Repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj": {}
+    "C:\\Users\\adaro\\source\\repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adaro\\Source\\Repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj": {
+    "C:\\Users\\adaro\\source\\repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adaro\\Source\\Repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj",
+        "projectUniqueName": "C:\\Users\\adaro\\source\\repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj",
         "projectName": "Tomaster v0.0",
-        "projectPath": "C:\\Users\\adaro\\Source\\Repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj",
+        "projectPath": "C:\\Users\\adaro\\source\\repos\\Tomaster\\Tomaster v0.0\\Tomaster v0.0.csproj",
         "packagesPath": "C:\\Users\\adaro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adaro\\Source\\Repos\\Tomaster\\Tomaster v0.0\\obj\\",
+        "outputPath": "C:\\Users\\adaro\\source\\repos\\Tomaster\\Tomaster v0.0\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -51,7 +51,7 @@ public class BasedeHechos
                 return hecho.valorBool();
             }
         }
-        if (n==0) { Console.WriteLine("hecho "+ nombre+", no encontrado"); }
+        Console.WriteLine("hecho "+ nombre+", no encontrado");
         return null;
     }
 
