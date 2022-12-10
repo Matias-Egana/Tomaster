@@ -2,9 +2,9 @@
 
 public class HechoBool : unHecho
 {
-    private string nombre;        
-    private bool valor;     
-    private int nivel;            
+    private string nombre;
+    private bool valor;
+    private int nivel;
     private string? pregunta = null;
 
 

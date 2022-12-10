@@ -17,5 +17,9 @@ Console.WriteLine("Hello, World!");
     bh.RecuperarValor("till");
     bh.RecuperarValor("tillaaa");
     
-Console.ReadKey();
+    BasedeReglas br = new BasedeReglas();
+  //  unaRegla r1 = new unaRegla("R1:", " IF: NEGRO AND RAPEA", "THEN: ES LADRON"); ta malo idea de como va la wea
+   // br.agregarRegla(r1);
+    
+    Console.ReadKey();
 // bh.MostrarHechos();

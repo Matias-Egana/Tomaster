@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tomaster_v0._0
 {
+    /*
     internal class recorridoGrafo
     {
         void DFS(grafo &g, int s)
@@ -29,4 +30,5 @@ namespace Tomaster_v0._0
             nodoProcesado[s] = true;
         }
     }
+    */
 }

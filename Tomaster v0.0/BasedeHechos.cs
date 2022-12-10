@@ -2,7 +2,7 @@
 
 public class BasedeHechos
 {
-     private List<HechoBool> hechos;
+    private List<HechoBool> hechos;
 
     public List<HechoBool> getHechos()
     {
